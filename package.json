@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": "12.11.1",
-    "npm": "6.14.8"
+    "node": "12.11.1"
   },
   "type": "module",
   "scripts": {
@@ -17,7 +16,8 @@
   "dependencies": {
     "body-parser": "^1.19.1",
     "cors": "^2.8.5",
-    "express": "^4.17.2",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.1",
     "goose": "0.0.3",
     "mon": "0.0.8",
     "mongoose": "^6.1.6",
